@@ -12,9 +12,6 @@ Ce site présente :
 
 Le design est moderne, responsive, accessible et animé pour une expérience utilisateur optimale.
 
-## 🖥️ Aperçu
-
-![Aperçu du portfolio](./) 
 
 ## 📁 Structure du projet
 
@@ -36,30 +33,10 @@ Portfolio-html/
 - **Accessibilité** : navigation clavier, aria-labels, focus visible
 - **Projets réels** : code source et démo en ligne
 - **Formulaire de contact** : simple et efficace
-
-## 🔗 Démo en ligne
-
->   
-> 
-
-## ⚙️ Installation locale
-
-1. Clone ce repo :
-    ```bash
-    git clone https://github.com/hadjehaouamahamatissa/Portfolio-html.git
-    ```
-2. Ouvre `index.html` dans ton navigateur.
-
-## 🛠️ Personnalisation
-
-- Modifie les images dans le dossier racine.
-- Mets à jour les liens de projets, réseaux sociaux, etc.
-- Adapte les couleurs dans les variables CSS si besoin.
-
+---
 ## 📬 Contact
 
 - **Email** : hadjehaouamahamatissa@gmail.com
-- **LinkedIn** :
 - **GitHub** : https://github.com/hadjehaouamahamatissa
 
 ---
